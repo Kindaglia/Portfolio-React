@@ -11,4 +11,4 @@ Matteo Drago: matteo.drago@edu.itspiemonte.it
 
 ## Repository GitHub:
 
-https://github.com/Kindaglia/Programmazione-WEB---HTML-CSS-Javascript
+https://github.com/Kindaglia/Portfolio-React
